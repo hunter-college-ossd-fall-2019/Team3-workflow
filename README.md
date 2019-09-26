@@ -11,3 +11,6 @@ In doing step 3, I learned remotely add an upstream to same directory as my orig
 
 sophiabonsu:
 Step three was a little challenge because i didnt follow the directions properly. I cloned the repository into a parent folder instead of my team folder so it only showed the upstream  version without the origin. I learned how to update the url of the existing remote repository.
+
+Nerouse:
+We had no problems creating issues
