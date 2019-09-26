@@ -1,4 +1,4 @@
 # Team3-workflow
-sophiabonsu - 
-darrenzhang2000 -
-nerouse - maintainer 
+^sophiabonsu - contributor
+^darrenzhang2000 - contributor
+^nerouse - maintainer 
