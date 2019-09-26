@@ -7,3 +7,4 @@ There was no problems in creating a read me file and there was no ambiguity. It 
 
 Darren Zhang:
 In doing step 3, I learned remotely add an upstream to same directory as my origin. I did not encounter any problems. 
+In doing step 5, I did not encounter any problems. I learned what programming languages my team members know.
